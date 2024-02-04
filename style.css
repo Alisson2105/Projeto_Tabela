@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+*{
+    text-align:center;
+}
+table{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    border-collapse:collapse;
+    width:500px;
+    margin:auto;
+}
+
+th{
+    padding:10px;
+    background-color:#EAECF0;
+}
+
+td{
+    padding:5px;
+}
+
+.posicao{
+    text-align:center;
+}
+
+.populacao{
+    text-align:right;
+}
+
+.porcentagem{
+    color:#0F870F;
+}
+
+.estado{
+    text-align:left;
+}
+
+td, th{
+    border:1px solid rgb(180, 178, 178);
+}
+
+a{
+    text-decoration:none;
+}
+
